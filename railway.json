@@ -1,0 +1,10 @@
+{
+  "services": {
+    "bedtime-story-app": {
+      "source": {
+        "type": "image",
+        "image": "docker.io/mohamed121212/bedtime-story-app:latest"
+      }
+    }
+  }
+}
